@@ -1,31 +1,103 @@
-Hi there 👋
-I’m Preetis Debnath — the non-typical CS nerd who somehow manages coding, designing, singing, swimming, socializing, leading teams and trying not to break my bones while doing calisthenics everyday.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Preetis Debnath | GitHub Profile</title>
+  </head>
+  <body>
+    <h1 align="center">Hi! I'm Preetis Debnath.</h1>
+<p align="center">
+      Computer Science student • Builder • UI-UX Enthusiast • Team Leader
+</p>
 
-👨‍💻 What I Actually Do
-Build dashboards, UIs, and random experiments
-Worked on React, HTML/CSS/JS, C, and slowly drag myself into DSA
-Create data-visualization projects (Chart.js, Leaflet, etc.)
-Pretend I have my life together while debugging
+  <hr >
+   <section>
+      <h2>About Me</h2>
+      <p>
+        I build purposeful digital products. I focus on structured logic, clean
+        UI, and real-world problem solving.
+      </p>
+      <p>
+        Beyond coding, I actively lead teams, explore creativity through
+        singing, and maintain discipline through calisthenics and swimming.
+      </p>
+  </section>
+  <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <strong>Travel Analytics Dashboard</strong><br />
+          Interactive data visualization system with charts, filters, and
+          heatmaps using Chart.js and Leaflet.
+        </li>
+        <br />
+        <li>
+          <strong>Waste Management System</strong><br />
+          Frontend-focused system built to streamline tracking and reporting.
+        </li>
+        <br />
+        <li>
+          <strong>Mental Health & Psychological Support System</strong><br />
+          SIH finalist project focused on structured digital support and
+          accessibility.
+        </li>
+        <br />
+        <li>
+          <strong>Frontend Experiments & UI Concepts</strong><br />
+          Responsive interfaces designed for clarity, usability, and
+          performance.
+        </li>
+      </ul>
+  </section>
+  <section>
+      <h2>Currently Learning</h2>
+      <ul>
+        <li>React & Next.js for scalable frontend systems</li>
+        <li>Data Structures & Algorithms</li>
+        <li>Java, Python, C++, C</li>
+        <li>UI/UX Design using Figma</li>
+        <li>Professional Git & GitHub workflows</li>
+      </ul>
+  </section>
+  <section>
+      <h2>Tech Stack</h2>
+      <h3>Languages</h3>
+      <p>C, C, C++, JavaScript, Python & Java</p>
+      <h3>Frontend</h3>
+      <p>React, HTML, CSS</p>
+      <h3>Data Visualization</h3>
+      <p>Chart.js, Leaflet</p>
+      <h3>Tools</h3>
+      <p>Figma, VS Code, Git, Canva, Photoshop</p>
+      <p>MS Word, Excel, Access, PowerPoint</p>
+  </section>
+  <section>
+      <h2>Philosophy</h2>
+      <p>
+        I value consistency, execution, and continuous learning. I focus on
+        building, leading, and improving every day.
+      </p>
+  </section>
+  <section>
+      <h2>Contact</h2>
+      <p>
+        📧 Email:
+        <a href="mailto:preetisdebnath.gdgcjec@gmail.com">
+          preetisdebnath.gdgcjec@gmail.com
+        </a>
+      </p>
+      <p>
+        💼 LinkedIn:
+        <a
+          href="https://www.linkedin.com/in/preetis-debnath-775a36321/"
+          target="_blank"
+        >
+          linkedin.com/in/preetis-debnath-775a36321
+        </a>
+      </p>
+   </section>
 
-🚀 Current Projects
-Travel Analytics Dashboard – interactive charts, filters, heatmaps
-Wastemanagement system (basic frontend)
-Mental health and pyschological support system (SIH finale project)
-More incoming because I have commitment issues with side projects
-
-🌱 Learning (because stagnation is boring)
-React + Next.js
-Java, Python, C++, C
-Figmac Canva, Photoshop & UI/UX
-Git & GitHub (yes, properly now)
-I also know MS word, excel, access and powerpoint lol
-
-🛠️ Tech I Use
-Languages: C, JavaScript, Python, C++
-Frontend: React, HTML, CSS
-Data Viz: Chart.js, Leaflet
-Tools: Figma, VS Code, Git
-
-📫 Contact
-Email ID- preetisdebnath.gdgcjec@gmail.com
-Linkedin- https://www.linkedin.com/in/preetis-debnath-775a36321/
+  <hr />
+   <p align="center">Built with focus. Growing with intent.</p>
+  </body>
+</html>
