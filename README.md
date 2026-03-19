@@ -60,6 +60,23 @@
       </ul>
   </section>
   <section>
+      <h2>LeetCode</h2>
+      <p>
+        I solve problems on LeetCode to strengthen problem solving, logic, and DSA skills.
+      </p>
+      <p>
+        <a href="https://leetcode.com/u/PreetisDebnath/" target="_blank">
+          View my LeetCode profile
+        </a>
+      </p>
+      <p align="center">
+        <img
+          src="https://leetcard.jacoblin.cool/PreetisDebnath?theme=light&font=baloo&ext=activity"
+          alt="Preetis Debnath LeetCode Stats"
+        />
+      </p>
+  </section>
+  <section>
       <h2>Tech Stack</h2>
       <h3>Languages</h3>
       <p>C, C, C++, JavaScript, Python & Java</p>
