@@ -24,17 +24,6 @@
       <h2>Projects</h2>
       <ul>
         <li>
-          <strong>Travel Analytics Dashboard</strong><br>
-          Interactive data visualization system with charts, filters, and
-          heatmaps using Chart.js and Leaflet.
-        </li>
-        <br>
-        <li>
-          <strong>Waste Management System</strong><br>
-          Frontend-focused system built to streamline tracking and reporting.
-        </li>
-        <br>
-        <li>
           <strong>Mental Health & Psychological Support System</strong><br />
           SIH finalist project focused on structured digital support and
           accessibility.
