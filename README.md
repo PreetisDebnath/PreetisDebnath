@@ -1,8 +1,6 @@
-<!doctype html>
-<html lang="en">
-  <head>
+<html>
+ <head>
     <meta charset="UTF-8">
-    <title>Preetis Debnath | GitHub Profile</title>
   </head>
   <body>
     <h1 align="center">Hi! I'm Preetis Debnath.</h1>
@@ -10,7 +8,7 @@
       Computer Science student • Builder • UI-UX Enthusiast • Team Leader
 </p>
 
-  <hr >
+  <hr>
    <section>
       <h2>About Me</h2>
       <p>
@@ -26,22 +24,22 @@
       <h2>Projects</h2>
       <ul>
         <li>
-          <strong>Travel Analytics Dashboard</strong><br />
+          <strong>Travel Analytics Dashboard</strong><br>
           Interactive data visualization system with charts, filters, and
           heatmaps using Chart.js and Leaflet.
         </li>
-        <br />
+        <br>
         <li>
-          <strong>Waste Management System</strong><br />
+          <strong>Waste Management System</strong><br>
           Frontend-focused system built to streamline tracking and reporting.
         </li>
-        <br />
+        <br>
         <li>
           <strong>Mental Health & Psychological Support System</strong><br />
           SIH finalist project focused on structured digital support and
           accessibility.
         </li>
-        <br />
+        <br>
         <li>
           <strong>Frontend Experiments & UI Concepts</strong><br />
           Responsive interfaces designed for clarity, usability, and
